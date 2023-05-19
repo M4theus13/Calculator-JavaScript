@@ -1,17 +1,45 @@
 <h1 align="center">Calculator-JavaScript</h1>
 
-<p>Calculadora básica desenvolvida com as tecnologias: Html, Css e JavaScript</p>
+<p align="center">
+ <a href="https://github.com/M4theus13/Calculator-JavaScript/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
+ <a href="https://github.com/M4theus13/Calculator-JavaScript/blob/main/README.md#resultados">Resultados</a> • 
+ <a href="https://github.com/M4theus13/Calculator-JavaScript/blob/main/README.md#--tecnologias-">Tecnologias</a>
+</p>
 
-<h1 align="center">💻 Sobre o Projeto</h1>
+<h2 align="center">Descrição do Projeto</h2>
 
-<p>O projeto foi criado para fins de estudos, usado de inspiração o video do canal <a href="https://www.youtube.com/watch?v=RD1c4IhUe7Q" target="_blank"> Prodigio Dev</a></p>
-<br>
-<p><a href="https://calculator-js.bohr.io" target="_blank">Teste o Projeto aqui</a></p>
-<h1>Resultados</h1>
-<div>
-  <img width="57%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript-Prints/print1.png" PC>
-  <img width="15%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript-Prints/print2.png" mobile>
+<h4 align="center"> 
+	✅ Calculadora 🚀 Finalizada ✅
+</h4>
+
+<p align="center">Calculadora básica online</p>
+
+<p align="center">
+  <a href="https://calculator-js.bohr.io" target="_blank">Teste o Projeto aqui</a>
+</p>
+
+<h2 align="center">Resultados</h2>
+
+<div align="center">
+	<h3>Desktop</h3>
+	<a href='https://github.com/M4theus13'>
+		<img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/desktop.png">
+	</a>
 </div>
-<h1 align="center"> ⚙ Tecnologias </h1>
 
-<p align="center"> 🟠HTML<br/> 🔵CSS<br/> 🟡JavaScript<br/> ⚫Github</p>
+<div align="center">
+	<h3>Tablet</h3>
+	<a href='https://github.com/M4theus13'>
+		<img width="39%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/tablet.png">
+	</a>
+</div>
+
+<div align="center">
+	<h3>Mobile</h3>
+	<a href='https://github.com/M4theus13'>
+		<img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/mobile.png">
+	</a>
+</div>
+<h2 align="center"> ⚙ Tecnologias </h2>
+
+<p align="center"> 🟠Html<br/> 🟣Css<br/> 🟡JavaScript<br/> ⚫GitHub</p>
