@@ -1,4 +1,4 @@
-<h1 align="center">Calculator-JavaScript</h1>
+<h1 align="center">Calculator JavaScript</h1>
 
 <p align="center">
  <a href="https://github.com/M4theus13/Calculator-JavaScript#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
