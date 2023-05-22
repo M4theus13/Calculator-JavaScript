@@ -15,7 +15,7 @@
 <p align="center">Calculadora básica online</p>
 
 <p align="center">
-  Para testar o projeto, segue o <a href="https://calculator-js.bohr.io" target="_blank">Link</a>
+  Para testar o projeto, segue o <a href="https://calculator-js.bohr.io" >Link</a>
 </p>
 
 <h2 align="center">Resultados</h2>
