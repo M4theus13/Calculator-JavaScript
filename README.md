@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/M4theus13/Calculator-JavaScript#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
- <a href="https://github.com/M4theus13/Calculator-JavaScript#resultados">Resultados</a> • 
+ <a href="https://github.com/M4theus13/Calculator-JavaScript#resultado">Resultado</a> • 
  <a href="https://github.com/M4theus13/Calculator-JavaScript#--tecnologias-">Tecnologias</a>
 </p>
 
@@ -18,19 +18,19 @@
   Para testar o projeto, segue o <a href="https://calculator-js.bohr.io" >Link</a>
 </p>
 
-<h2 align="center">Resultados</h2>
+<h2 align="center">Resultado</h2>
 
 <div align="center">
 	<h3>Desktop</h3>
 	<a href='https://github.com/M4theus13'>
-		<img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/desktop.png">
+		<img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/desktop.png">
 	</a>
 </div>
 
 <div align="center">
 	<h3>Tablet</h3>
 	<a href='https://github.com/M4theus13'>
-		<img width="39%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/tablet.png">
+		<img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Calculator-JavaScript/tablet.png">
 	</a>
 </div>
 
